@@ -55,7 +55,7 @@ Your games and assets are not just files — they’re verified, tradable, and c
 | **Database** | MongoDB Atlas |
 | **AI Engine** | OpenAI / Stability / Custom LSTM Models |
 | **Web 3.0 / Blockchain** | Ethereum / Polygon SDKs, Web3.js / Ethers.js |
-| **Wallets** | MetaMask / WalletConnect / Phantom |
+| **Wallets** | MetaMask / WalletConnect / TrustWallet / Binance |
 | **Storage** | AWS S3 + IPFS for decentralized asset storage |
 | **Payments** | Razorpay / Stripe / Crypto transactions |
 | **Deployment** | Vercel + AWS Lambda functions |
